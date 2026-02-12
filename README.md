@@ -1,16 +1,30 @@
-# React + Vite
+# 🏥 Mini Healthcare Support Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a concept-level web app built for NGOs to manage patient support and volunteer registrations with basic AI-powered automation.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
+- React (Vite)
+- JavaScript
+- HTML / CSS
+- Netlify (Deployment)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 AI / Automation Idea
+The app simulates AI behavior by:
+- Generating a short summary of the user’s message
+- Creating an automated response based on user role (Patient / Volunteer)
 
-## React Compiler
+This helps NGOs quickly understand requests and respond efficiently.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🌍 NGO Use Case
+NGOs often receive many support and volunteer messages. This app:
+- Collects structured data
+- Summarizes messages
+- Prepares smart auto-replies
 
-## Expanding the ESLint configuration
+This reduces manual effort and speeds up response time.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 Live Demo
+👉 (Add your Netlify link here)
+
+## 📦 GitHub Repo
+👉 https://github.com/Mbilal0079/healthcare-support-app
